@@ -1,4 +1,4 @@
-# Getting Started on Your Design Resume
+# Getting Started On Your Design Resume
 
 Your resume is the main way of catching the attention of a recruiter or hiring manager. It is the vehicle that you use to tell your story and to outline your strengths that enable you to contribute to the success of the company. A resume highlights your skills, achievements and experience. Think of it as your proxy, as well as a critical component in crafting your personal brand. What do you want this piece of paper to say about you when you can’t be there to say it yourself?
 
