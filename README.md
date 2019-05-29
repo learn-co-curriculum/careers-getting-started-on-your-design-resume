@@ -11,4 +11,6 @@ When we talk about creating a résumé, we really mean two important and equal h
 - Writing your résumé
 - Designing your résumé
 
-Doing one well doesn’t guarantee doing the other one well, so they require both sides of the skills  you’ve practiced thus far. 
+Doing one well doesn’t guarantee doing the other one well, so they require both sides of the skills you’ve practiced thus far. 
+
+**Your Career Coach will meet with you in Week 22 or Week 23 of your program to review and refine your resume content, while you begin working on the design of it.**
