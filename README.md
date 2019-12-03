@@ -18,7 +18,7 @@ When we talk about creating a resume, we really mean two important and equal hal
 1. Writing your resume
 2. Designing your resume
 
-Doing one well doesn’t guarantee doing the other one well, so they require both sides of the skills  you’ve practiced thus far. 
+Doing one well doesn’t guarantee doing the other one well; they require both sides of the skills  you’ve practiced thus far. 
 
 Creating your resume is like putting together a puzzle you don’t have a picture of. You’ll write text that’s a certain length, and have a certain number of sections. Then when you design everything out, you’ll choose a typeface, weight, and size that impacts overall layout elements like column widths and header size. Then, you’ll make a layout change to one section, and that requires changes to other sections—making them wider or taller, and likely requiring you to go back and add or delete text again.
 
