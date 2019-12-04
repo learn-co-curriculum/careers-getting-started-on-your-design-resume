@@ -22,5 +22,4 @@ Doing one well doesn’t guarantee doing the other one well; they require both s
 
 Creating your resume is like putting together a puzzle you don’t have a picture of. You’ll write text that’s a certain length, and have a certain number of sections. Then when you design everything out, you’ll choose a typeface, weight, and size that impacts overall layout elements like column widths and header size. Then, you’ll make a layout change to one section, and that requires changes to other sections—making them wider or taller, and likely requiring you to go back and add or delete text again.
 
-You’ll likely go through multiple rounds to decide how to lay everything out the best way. That helps you understand the hierarchy of your information, how you can incorpor
-
+You’ll likely go through multiple rounds to decide how to lay everything out the best way. That helps you understand the hierarchy of your information, how you can incorporate personal branding, and what information is truly important for you.
